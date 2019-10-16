@@ -1,0 +1,28 @@
+[
+    {
+      "id": "5da48d57771b92fe1e327e0a",
+      "name": "Movie",
+      "desc": "Test Description",
+      "defaultSubCategory": "Comedy",
+      "tags": [
+        {
+          "tagID": 1,
+          "name": "Movie",
+          "description": "Test Tag desc",
+          "priority": 1,
+          "language": "en"
+        }
+      ],
+      "language": "en",
+      "subCategories": [
+        {
+          "subCatID": 1,
+          "subCatName": "comedy",
+          "language": "en",
+          "image": "https://picsum.photos/id/662/200/300"
+        }
+      ],
+      "updateAt": "2019-10-14T14:59:35.293Z",
+      "CreatedAt": "2019-10-14T14:59:35.293Z"
+    }
+  ]
