@@ -5,12 +5,14 @@ http
     res.setHeader("Content-Type", "application/json");    
     if (req.url == "/categories") {
       fs.readFile("./categories.json", (err, data) => {
-        res.end(data.toString());
+          if(data)
+            res.end(data.toString());
       });
     }
     if (req.url == "/vod") {
         fs.readFile("./vod.json", (err, data) => {
-          res.end(data.toString());
+            if(data)
+                res.end(data.toString());
         });
       }
   })
