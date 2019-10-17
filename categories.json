@@ -1,28 +1,114 @@
 [
-    {
-      "id": "5da48d57771b92fe1e327e0a",
-      "name": "Movie",
-      "desc": "Test Description",
-      "defaultSubCategory": "Comedy",
-      "tags": [
-        {
-          "tagID": 1,
-          "name": "Movie",
-          "description": "Test Tag desc",
-          "priority": 1,
-          "language": "en"
-        }
-      ],
-      "language": "en",
-      "subCategories": [
-        {
-          "subCatID": 1,
-          "subCatName": "comedy",
-          "language": "en",
-          "image": "https://picsum.photos/id/662/200/300"
-        }
-      ],
-      "updateAt": "2019-10-14T14:59:35.293Z",
-      "CreatedAt": "2019-10-14T14:59:35.293Z"
-    }
-  ]
+  {
+    "id": "1",
+    "name": "News",
+    "desc": "Test Description",
+    "defaultSubCategory": "Comedy",
+    "isHomepage": true,
+    "tags": [
+      {
+        "tagID": 1,
+        "name": "Movie",
+        "description": "Test Tag desc",
+        "priority": 1,
+        "language": "en"
+      }
+    ],
+    "language": "en",
+    "subCategories": [
+      {
+        "subCatID": 1,
+        "isHomepage": true,
+        "subCatName": "Live News",
+        "language": "en",
+        "image": "https://picsum.photos/id/662/200/300"
+      }
+    ],
+    "updateAt": "2019-10-14T14:59:35.293Z",
+    "CreatedAt": "2019-10-14T14:59:35.293Z"
+  },
+  {
+    "id": "2",
+    "name": "Movies",
+    "desc": "Test Description",
+    "defaultSubCategory": "Comedy",
+    "isHomepage": true,
+    "tags": [
+      {
+        "tagID": 1,
+        "name": "Movie",
+        "description": "Test Tag desc",
+        "priority": 1,
+        "language": "en"
+      }
+    ],
+    "language": "en",
+    "subCategories": [
+      {
+        "subCatID": 1,
+        "isHomepage": true,
+        "subCatName": "Popular Movies",
+        "language": "en",
+        "image": "https://picsum.photos/id/662/200/300"
+      }
+    ],
+    "updateAt": "2019-10-14T14:59:35.293Z",
+    "CreatedAt": "2019-10-14T14:59:35.293Z"
+  },
+  {
+    "id": "3",
+    "name": "Sports",
+    "desc": "Test Description",
+    "defaultSubCategory": "Comedy",
+    "isHomepage": true,
+    "tags": [
+      {
+        "tagID": 1,
+        "name": "Movie",
+        "description": "Test Tag desc",
+        "priority": 1,
+        "language": "en"
+      }
+    ],
+    "language": "en",
+    "subCategories": [
+      {
+        "subCatID": 1,
+        "isHomepage": true,
+        "subCatName": "Sports",
+        "language": "en",
+        "image": "https://picsum.photos/id/662/200/300"
+      }
+    ],
+    "updateAt": "2019-10-14T14:59:35.293Z",
+    "CreatedAt": "2019-10-14T14:59:35.293Z"
+  },
+  {
+    "id": "4",
+    "name": "TV Series",
+    "desc": "Test Description",
+    "defaultSubCategory": "Comedy",
+    "isHomepage": true,
+    "tags": [
+      {
+        "tagID": 1,
+        "name": "Movie",
+        "description": "Test Tag desc",
+        "priority": 1,
+        "language": "en"
+      }
+    ],
+    "language": "en",
+    "subCategories": [
+      {
+        "subCatID": 1,
+        "subCatName": "TV Series",
+        "language": "en",
+        "isHomepage": true,
+        "image": "https://picsum.photos/id/662/200/300"
+      }
+    ],
+    "updateAt": "2019-10-14T14:59:35.293Z",
+    "CreatedAt": "2019-10-14T14:59:35.293Z"
+  }
+]
