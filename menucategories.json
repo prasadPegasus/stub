@@ -1,0 +1,54 @@
+{
+  "homeCategories": [
+    {
+      "_id": "5dc28edf546a1b71c61d5d69",
+      "name": "Home",
+      "priority": 1,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28ee8546a1b71c61d5d6a",
+      "name": "Live TV",
+      "priority": 2,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28ef1546a1b71c61d5d6b",
+      "name": "Movies",
+      "priority": 3,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28ef9546a1b71c61d5d6c",
+      "name": "Sports",
+      "priority": 4,
+      "icon": "home"
+    }
+  ],
+  "moreCategories": [
+    {
+      "_id": "5dc28f08546a1b71c61d5d6d",
+      "name": "TV Series",
+      "priority": 5,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28f11546a1b71c61d5d6e",
+      "name": "News",
+      "priority": 6,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28f18546a1b71c61d5d6f",
+      "name": "Radio",
+      "priority": 7,
+      "icon": "home"
+    },
+    {
+      "_id": "5dc28f1f546a1b71c61d5d70",
+      "name": "TV Guide",
+      "priority": 8,
+      "icon": "home"
+    }
+  ]
+}

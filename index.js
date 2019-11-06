@@ -20,6 +20,9 @@ http
     let filename = "";
 
     switch (req.url) {
+      case "/menu-categories":
+        filename = "menucategories.json";
+        break;
       case "/categories":
         filename = "categories.json";
         break;
